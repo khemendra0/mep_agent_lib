@@ -23,6 +23,7 @@ import (
 	"mep-agent/src/model"
 	"net/http"
 	"strings"
+        "github.com/khemendra0/mep_agent_lib/src/model"
 )
 
 // get yaml and parse to struct
