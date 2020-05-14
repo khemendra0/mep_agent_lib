@@ -20,7 +20,6 @@ import (
 	"errors"
 	"gopkg.in/yaml.v2"
 	"io/ioutil"
-	"mep-agent/src/model"
 	"net/http"
 	"strings"
         "github.com/khemendra0/mep_agent_lib/src/model"
